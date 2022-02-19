@@ -62,7 +62,7 @@ p {
 }
 
 #hero {
-  background: url("../image/beach.jpg") no-repeat center center/cover;
+  background: url("..image/beach.jpg") no-repeat center center/cover;
   height: 600px;
 }
 #hero .hero-content {
@@ -127,7 +127,7 @@ p {
    color: #ffb740;
 }
 #testimonials { 
-  background: url("image/beach2.jpg") no-repeat center center/cover;
+  background: url("..image/beach2.jpg") no-repeat center center/cover;
   height: 600px;
   overflow: hidden;
 }
